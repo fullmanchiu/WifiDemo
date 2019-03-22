@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WifiDemo</string>
+    <string name="wifiStatusOn">开启</string>
+    <string name="wifiStatusOff">关闭</string>
+</resources>
